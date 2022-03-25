@@ -1,0 +1,8 @@
+APP:
+  CODE: ameentest
+  OWNER: abc@jetblue.com
+  PM: def@jetblue.com
+ENVIRONMENT: dev
+LOCATION: eastus
+BC: 123456
+CC: 6001
